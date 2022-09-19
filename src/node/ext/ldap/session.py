@@ -33,12 +33,6 @@ class LDAPSession(object):
     def baseDN(self, baseDN):
         self._communicator.baseDN = baseDN
 
-    def ensure_connection(self):
-        """If LDAP directory is down, bind again and retry given function.
-        """
-        if self._communicator._con is None:
-            self._communicator.bind()
-
     def search(self, queryFilter='(objectClass=*)', scope=BASE, baseDN=None,
                force_reload=False, attrlist=None, attrsonly=0,
                page_size=None, cookie=None):
