@@ -1,8 +1,8 @@
 History
 =======
 
-1.1 (unreleased)
-----------------
+1.0.1+enfold1 (unreleased)
+--------------------------
 
 - Nothing changed yet.
 
