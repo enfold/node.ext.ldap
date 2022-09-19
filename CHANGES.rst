@@ -4,13 +4,15 @@ History
 1.0.1+enfold2 (unreleased)
 --------------------------
 
-- Nothing changed yet.
+- Remove calls to ``ensure_connection`` from ``LDAPSession``
+[enfold-josh]
 
 
 1.0.1+enfold1 (2022-09-19)
 --------------------------
 
 - Move ``ensure_connection`` from ``LDAPSession`` to ``LDAPCommunicator``.
+[enfold-josh]
 
 
 1.0 (2022-03-19)
