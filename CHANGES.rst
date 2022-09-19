@@ -7,6 +7,9 @@ History
 - Adopt lifecycle related changes from ``node`` 1.1.
   [rnix]
 
+- Move ``ensure_connection`` from ``LDAPSession`` to ``LDAPCommunicator``.
+  [enfold-josh]
+
 
 1.0 (2022-03-19)
 ----------------
