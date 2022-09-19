@@ -1,7 +1,7 @@
 History
 =======
 
-1.0.1+enfold2 (unreleased)
+1.0.1+enfold2 (2022-09-19)
 --------------------------
 
 - Remove calls to ``ensure_connection`` from ``LDAPSession``
