@@ -1,7 +1,7 @@
 History
 =======
 
-1.1 (unreleased)
+1.1+enfold1 (unreleased)
 ----------------
 
 - Adopt lifecycle related changes from ``node`` 1.1.
