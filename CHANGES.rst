@@ -1,14 +1,8 @@
 History
 =======
 
-1.2 (unreleased)
-----------------
-
-- Nothing changed yet.
-
-
-1.1 (2022-09-19)
-----------------
+1.1+enfold1 (unreleased)
+------------------------
 
 - Adopt lifecycle related changes from ``node`` 1.1.
   [rnix]
