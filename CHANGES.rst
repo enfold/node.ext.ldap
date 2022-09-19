@@ -1,6 +1,12 @@
 History
 =======
 
+1.1+enfold2 (unreleased)
+------------------------
+
+- Nothing changed yet.
+
+
 1.1+enfold1 (2022-09-19)
 ------------------------
 
